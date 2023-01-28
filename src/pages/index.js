@@ -1,4 +1,6 @@
 import Head from "next/head";
+//below code to import sidebar from the components folder
+import Sidebar from "../../components/sidebar"
 
 export default function Home() {
   return (
